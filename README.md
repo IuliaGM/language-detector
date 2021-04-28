@@ -1,5 +1,5 @@
-# language-guesser
-language guesser build with nodejs and npm
+# language-detector
+A language detector exercise build with nodejs and npm
 
 ## Run the program after installing the dependencies
 ```
