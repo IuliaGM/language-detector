@@ -5,4 +5,6 @@ language guesser build with nodejs and npm
 ...
 $ node index.js 'And some text here in any language you choose'
 ...
-
+```
+$ npm install -g bash-handbook
+```
